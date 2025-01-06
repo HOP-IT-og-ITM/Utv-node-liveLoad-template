@@ -9,7 +9,7 @@
   
   },
   "author": "Egil Johnsen Dahle",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.21.1",
     "tsc": "^2.0.4",
